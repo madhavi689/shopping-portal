@@ -1,5 +1,5 @@
 pipeline{
-
+  echo 'this pipeline is for shopping portal...'
     agent any
 
 // uncomment the following lines by removing /* and */ to enable
